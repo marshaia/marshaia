@@ -61,14 +61,12 @@
 ---
 
 ### :fire: My Stats :
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marshaia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshaia)](https://github.com/anuraghazra/github-readme-stats)
-  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshaia&layout=compact&theme=radical)](https://github.com/marshaia)
   
+[![DvdDuarte’s github stats](https://github-readme-stats.vercel.app/api?username=marshaia&count_private=true&theme=radical)](https://github.com/marshaia)
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marshaia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/marshaia)
 
 
 <!--
