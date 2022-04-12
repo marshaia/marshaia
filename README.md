@@ -35,8 +35,6 @@
 - :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [uminho-miei](https://github.com/marshaia/uminho-miei))
 
 - ⚡ I'm looking for summer internships regarding the areas of: web development, data bases, big data, back-end.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marshaia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joanalves15/)
   
   
   
