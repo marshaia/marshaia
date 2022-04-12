@@ -1,12 +1,24 @@
 
+
+
 <div id="header" align="center">
+  
+  <h1>
+    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Joana! 
+  </h1>
+  
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/joanalves15/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/joanaalves15-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    
+  <a href="https://www.instagram.com/maia.bzz/">
+    <img src="https://img.shields.io/badge/maia.bzz-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
   </div>
+
 </div>
 
 
@@ -73,7 +85,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <!--
+<!--
+
+  <a href="joana15501@gmail.com">
+    <img src="https://img.shields.io/badge/joana15501-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+    
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
