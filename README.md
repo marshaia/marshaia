@@ -54,7 +54,7 @@
   
 [![DvdDuarte’s github stats](https://github-readme-stats.vercel.app/api?username=marshaia&count_private=true&theme=radical)](https://github.com/marshaia)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marshaia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/marshaia)
+
 
 
 <!--
@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marshaia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/marshaia)
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
