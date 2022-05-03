@@ -14,9 +14,7 @@
     <img src="https://img.shields.io/badge/joanaalves15-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
-  <a href="https://www.instagram.com/maia.bzz/">
-    <img src="https://img.shields.io/badge/maia.bzz-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
+
   </div>
 
 </div>
@@ -75,6 +73,10 @@ Here are some ideas to get you started:
 
   <a href="joana15501@gmail.com">
     <img src="https://img.shields.io/badge/joana15501-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+
+  <a href="https://www.instagram.com/maia.bzz/">
+    <img src="https://img.shields.io/badge/maia.bzz-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
     
 
