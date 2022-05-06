@@ -32,7 +32,7 @@
 
 - :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [uminho-miei](https://github.com/marshaia/uminho-miei))
 
-- ⚡ I'm looking for summer internships regarding the areas of: web development, data bases, big data, back-end.
+- ⚡ I'm looking for summer internships regarding the areas of: web development, data bases, and back-end.
   
   
   
