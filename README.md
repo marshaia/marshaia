@@ -4,7 +4,7 @@
 <div id="header" align="center">
   
   <h1>
-    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> I'm Joana! 
+    Hey there, I'm Joana! 
   </h1>
   
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
@@ -57,6 +57,8 @@
 
 <!--
 **marshaia/marshaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> I'm Joana!
 
 Here are some ideas to get you started:
 
