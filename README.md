@@ -30,7 +30,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm studying Software Engineering at Universidade do Minho, Portugal.
 
-- :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [uminho-miei](https://github.com/marshaia/uminho-miei))
+- :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [My Projects](https://github.com/marshaia/uminho-miei))
 
 - ⚡ I'm looking for summer internships regarding the areas of: web development, data bases, and back-end.
   
