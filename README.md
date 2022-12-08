@@ -28,7 +28,7 @@
 
 - 😄 Pronouns: She / Her
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm studying Software Engineering at Universidade do Minho, Portugal.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently taking my master's in Software Engineering at Universidade do Minho, Portugal.
 
 - :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [Academic Projects](https://github.com/marshaia/uminho-miei))
 
