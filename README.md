@@ -41,20 +41,17 @@
   
   
   
- 
----
+<!--
 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshaia&layout=compact&theme=radical)](https://github.com/marshaia)
+
+ [![marshaia’s github stats](https://github-readme-stats.vercel.app/api?username=marshaia&count_private=true&theme=radical)](https://github.com/marshaia)
   
 
-<!-- [![marshaia’s github stats](https://github-readme-stats.vercel.app/api?username=marshaia&count_private=true&theme=radical)](https://github.com/marshaia) -->
-  
 
 
-
-<!--
 **marshaia/marshaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> I'm Joana!
@@ -69,8 +66,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--
 
   <a href="joana15501@gmail.com">
     <img src="https://img.shields.io/badge/joana15501-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
@@ -86,9 +81,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
-
-
 
 
 
