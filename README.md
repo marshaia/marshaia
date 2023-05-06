@@ -11,7 +11,7 @@
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/joanalves15/">
-    <img src="https://img.shields.io/badge/joanaalves15-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/joanalves15-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
 
