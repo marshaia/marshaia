@@ -30,9 +30,9 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently taking my master's in Software Engineering at Universidade do Minho, Portugal.
 
-- :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out here: [Academic Projects](https://github.com/marshaia/uminho-miei))
+- :seedling: I've been building academic projects of frontend and (mainly) backend (you can check them out [here](https://github.com/marshaia/uminho-miei))
 
-- ⚡ I have developed small personal projects mostly regarding web development, you can check them out here: [Personal Projects](https://github.com/marshaia/learning) 
+- ⚡ I have developed small personal projects mostly regarding web development, you can check them out [here](https://github.com/marshaia/learning) 
   
 
 
@@ -40,8 +40,7 @@
   
   
   
-  
-<!--
+ 
 
 ### :fire: My Stats :
 
@@ -49,7 +48,7 @@
 
  [![marshaia’s github stats](https://github-readme-stats.vercel.app/api?username=marshaia&count_private=true&theme=radical)](https://github.com/marshaia)
   
-
+<!--
 
 
 **marshaia/marshaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
