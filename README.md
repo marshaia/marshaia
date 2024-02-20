@@ -1,28 +1,62 @@
 
+<h1 align="center">Hey there, I'm Joana!👋</h1>
 
-
-<div id="header" align="center">
-  
-  <h1>
-    Hey there, I'm Joana! 
-  </h1>
-  
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="150"/>
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/joanalves15/">
-    <img src="https://img.shields.io/badge/joanalves15-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    
-
-  </div>
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif"  />
 </div>
 
 
-  
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/joanalves15/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Joana%20Alves&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+
+###
+
+<h2 align="left">✨ About me</h2>
+
+I'm in the final year of my Master's Degree in Software Engineering @ [UMinho](https://www.uminho.pt/) 🎓
+
+Throughout the course, I interacted with various areas but developed a particular interest in application development, especially **web/front-end** development
+
+
+__Projects:__
+- All the academic projects I've helped to develop can be found [here](https://github.com/marshaia/uminho-miei)
+- I also have developed small personal projects (mostly regarding web development), you can check them out [here](https://github.com/marshaia/learning)
+
+
+
+
+<h2 align="left">👩‍💻 Languages</h2>
+
+- Java
+- JavaScript & TypeScript
+- Haskell
+- Python
+- C
+- SQL
+
+
+
+
+<h2 align="left">💻 Tools</h3>
+
+- Vue.js
+- Tailwind CSS
+- Express
+- Angular
+- MySQL
+- PostgreSQL
+<!-- - React Native
+- Android -->
+
+
+
+
+
+<!--
 ### :woman_technologist: About Me :
 
 - 😄 Pronouns: She / Her
@@ -40,7 +74,7 @@
   
   
  
-<!--
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshaia&layout=compact&theme=radical)](https://github.com/marshaia)
