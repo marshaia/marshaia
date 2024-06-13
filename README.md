@@ -33,6 +33,7 @@ __Projects:__
 
 - Java
 - JavaScript & TypeScript
+- Elixir
 - Haskell
 - Python
 - C
@@ -44,9 +45,10 @@ __Projects:__
 <h2 align="left">💻 Tools</h3>
 
 - Vue.js
-- Tailwind CSS
-- Express
 - Angular
+- Express
+- Phoenix
+- Tailwind CSS
 - MySQL
 - PostgreSQL
 <!-- - React Native
